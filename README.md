@@ -1,46 +1,93 @@
-# Getting Started with Create React App
+# 💸 Conversor de Moedas React + TypeScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bem-vindo ao **Conversor de Moedas**!  
+Um projeto simples e intuitivo feito em **React** + **TypeScript** que permite converter valores entre Dólar, Euro, Real, Libra e Iene em tempo real! 🌍💰
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🖼️ Preview do Projeto
 
-### `npm start`
+> **Adicione abaixo uma imagem ou gif do seu projeto:**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Preview](![image](https://github.com/user-attachments/assets/cb413c61-7025-4db9-badc-49384da67454))
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `npm test`
+## ✨ Funcionalidades
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Conversão instantânea** entre as moedas: Dólar, Euro, Real, Libra e Iene.
+- Interface amigável e responsiva.
+- Desenvolvido com React Hooks e TypeScript para maior segurança e organização.
+- Estilização moderna usando CSS Modules.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Como rodar o projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repo.git
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. **Instale as dependências:**
+   ```bash
+   npm install
+   ```
+   ou
+   ```bash
+   yarn
+   ```
 
-### `npm run eject`
+3. **Inicie o projeto:**
+   ```bash
+   npm start
+   ```
+   ou
+   ```bash
+   yarn start
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+4. Acesse em seu navegador: [http://localhost:3000](http://localhost:3000)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 🧑‍💻 Como usar
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1. Digite o valor que deseja converter.
+2. Escolha a moeda de origem.
+3. Escolha a moeda de destino.
+4. Clique em **Convert**.
+5. O resultado aparecerá logo abaixo! 🎉
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📚 Tecnologias utilizadas
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [React](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- CSS Modules
+
+---
+
+## 📂 Estrutura do projeto
+
+```
+src/
+ ├─ components/
+ │   └─ Form.tsx
+ ├─ styles/
+ │   └─ style.module.css
+ ├─ App.tsx
+ └─ index.tsx
+```
+
+---
+
+## 🤝 Contribuição
+
+Fique à vontade para abrir issues ou pull requests!  
+Sugestões, melhorias e correções são sempre bem-vindas.
+
+---
+
+Feito com 💙 por [Seu Nome](https://github.com/seu-usuario)
