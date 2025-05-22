@@ -71,7 +71,7 @@ export default function Form({ children }: FormProps) {
                         <option value="iene">Iene</option>
                     </select>
 
-                    <button type="submit">Convert</button>
+                    <button type="submit" className={styles.convertButton}>Convert</button>
                 </form>
             </div>
 
