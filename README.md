@@ -9,7 +9,8 @@ Um projeto simples e intuitivo feito em **React** + **TypeScript** que permite c
 
 > **Adicione abaixo uma imagem ou gif do seu projeto:**
 
-![Preview](![image](https://github.com/user-attachments/assets/cb413c61-7025-4db9-badc-49384da67454))
+![image](https://github.com/user-attachments/assets/41cb235a-11c6-4e22-86d8-088c4ccd9392)
+
 
 ---
 
